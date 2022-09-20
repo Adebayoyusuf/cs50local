@@ -1,6 +1,7 @@
-#cs50p problem sets
+# cs50p problem sets
 ##  This repo will contain all the problem sets i solved while learning python 
-### problem set 0 covered functions and variables
+### 
+    problem set 0 covered functions and variables
     problem set 1 covered conditionals
     problem set 2 covered loops
     problem set 3 covered exceptions
